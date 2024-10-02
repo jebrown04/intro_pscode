@@ -1,4 +1,41 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+James Brown Task A
 
+START
+
+	SET guessNumber to a random number between 1 and 10
+	SET numberOfChances to 0
+	SET maxChances to 3
+
+	PRINT "Welcome wacky Wildcat Numbers"
+	PRINT "I selected a number between 1 and 10"
+	PRINT "You have", maxChances, "chances to get it"
+
+	Program generates a random number 1 through 10 in background
+	Prompt player to input number 1 through 10
+	Player input
+
+	If player input equals (==) the computer generated number, display "you win"
+		Else "try again"
+
+	Attempt 2 - code repeats
+
+	Program generates a random number 1 through 10 in background
+	Prompt player to input number 1 through 10
+	Player input
+
+	If player input equals (==) the computer generated number, display "you win"
+		Else "try again"
+	
+	Attempt 3 - code repeats
+
+	Program generates a random number 1 through 10 in background
+	Prompt player to input number 1 through 10
+	Player input
+
+	If player input equals (==) the computer generated number, display "you win"
+		Else "you loose.  Game over.  Thanks for playing"
+	
+END

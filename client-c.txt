@@ -1,4 +1,18 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+James Brown - C
 
+START
+
+SET variable "Package" is an integer value
+SET variable "Case" is an integer value
+
+Set variable Package to 2
+	int Package = 2
+While Package is <=2, print case 
+Increment "Case" by 2
+
+End While 
+
+End

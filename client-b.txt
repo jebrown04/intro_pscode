@@ -1,4 +1,21 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+James Brown - Task B
 
+
+Variables:  Define specific locations in warehouse.  Assume it is equally divided into 10 sections. 
+
+START
+
+Define starting position
+Define ending position
+
+If current position < ending position, print "east"   [horizontal movement]
+ElseIf current position > ending position, print "west"   [horizontal movement]
+ElseIf current position > ending position, print "south"  [vertical movement]
+ElseIf current position > ending position, print "north"  [vertical movement]
+
+While loop continues until the customer reaches the desired location
+
+END
